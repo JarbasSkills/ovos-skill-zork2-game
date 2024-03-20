@@ -1,0 +1,23 @@
+{
+  "skill_id": "ovos-skill-zork2-game.jarbasai",
+  "source": "https://github.com/JarbasSkills/ovos-skill-zork2-game",
+  "package_name": "ovos-skill-zork2-game",
+  "extra_plugins": {
+    "core": [],
+    "PHAL": [],
+    "listener": [],
+    "audio": [],
+    "media": [],
+    "gui": []
+  },
+  "icon": "http://infocom.elsewhere.org/gallery/zork2/front.jpg",
+  "images": [],
+  "name": "Zork 2",
+  "description": "The Wizard appears, floating nonchalantly in the air beside you. He grins sideways at you.\n        The Wizard incants \"Fantasize,\" but nothing happens. He shakes the wand. Nothing happens. With a slightly embarassed glance in your direction, he vanishes.",
+  "examples": [
+    "play zork 2",
+    "save game",
+    "exit game"
+  ],
+  "tags": ["game", "adventure", "entertainment"]
+}
